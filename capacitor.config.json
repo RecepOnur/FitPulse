@@ -1,0 +1,8 @@
+{
+  "appId": "com.fitpulse.app",
+  "appName": "FitPulse",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
